@@ -4,6 +4,8 @@ from collections import namedtuple
 
 def intersection_rectangle(R1,R2):
 
+    
+
 
 
     return int_rect
