@@ -1,0 +1,3 @@
+# You are given n numbers as well as their probabilities P[i], whcih sum up to 1. Given a random number generator that produces values in [0,1] uniformly, how would you generate one of the n numbers according to the specified probabilities ?
+
+# Solve by partitioning the unit interval [0,1] into n disjoint segments, in a way so that the lenght of the jth interval is proportional to pj. Then we selecta number uniformly at random in the unit interval, [0,1], and return the number corresponding to the interval the randomly generated number falls in.

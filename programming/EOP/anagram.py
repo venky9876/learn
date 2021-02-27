@@ -2,6 +2,8 @@
 
 #!/bin/python3
 
+#NOT COMPLETE
+
 import math
 import os
 import random

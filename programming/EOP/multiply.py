@@ -1,7 +1,12 @@
 # Multiply two non negative integers using only bitwise operators
 
+#NOT COMPLETE
+
 def bit_multiply(x,y):
     product = 0
+
+    def add(a,b):
+        
 
     
 
